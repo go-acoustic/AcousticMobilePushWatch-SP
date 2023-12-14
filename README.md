@@ -1,2 +1,2 @@
 # AcousticMobilePushWatch-SP
-Swift package for AcousticMobilePushWatch debug iOS library.
+Swift package for AcousticMobilePushWatch iOS library.
