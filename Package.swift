@@ -35,6 +35,6 @@ let package = Package(
         .binaryTarget(
             name: "AcousticMobilePushWatch",
             url: "https://github.com/go-acoustic/Acoustic-Mobile-Push-iOS/releases/download/3.9.19/AcousticMobilePushWatch_XCFramework_Release.zip",
-            checksum: "cab322fd3b7bf31df19d110321cbf63e9b1335e457ff93da13d4ef7ed233ce18"),
+            checksum: "dbe46cb2ae0c2d19436af56c6f44f977efddac6baf364371e3536074e99dedd5"),
     ]
 )
